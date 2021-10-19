@@ -49,8 +49,8 @@ Hello, World 2!
 
 # COMPILER
 
-$ g.py com file.g
+$ g.py com -r file.g
 
 OR
 
-$ python3 g.py com file.g
+$ python3 g.py com -r file.g
