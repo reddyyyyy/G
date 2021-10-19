@@ -21,7 +21,7 @@ import "std.g"
 
 30 10 - print
 
-# PATHS:
+# PACKAGES:
 
 The "import" is for importing a package, std.g is the default package but you can create more packages inside the ./packages/ folder
 
