@@ -1905,7 +1905,7 @@ def usage(compiler_name: str):
     print("    -E <expansion-limit>  Macro and include expansion limit. (Default %d)" % DEFAULT_EXPANSION_LIMIT)
     print("    -unsafe               Disable type checking.")
     print("  SUBCOMMAND:")
-    print("    sim <file>            Simulate the program")
+    print("    exe <file>            Simulate the program")
     print("    com [OPTIONS] <file>  Compile the program")
     print("      OPTIONS:")
     print("        -r                  Run the program after successful compilation")
